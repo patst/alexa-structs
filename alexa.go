@@ -1,4 +1,4 @@
-package alexa_structs
+package alexa
 
 // Endpoint are objects for alexas smart home skills
 type Endpoint struct {
